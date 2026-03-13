@@ -18,3 +18,4 @@ This repository contains the preprocessing pipeline, model implementations, trai
 
 ## Authors 
 - Amirali Askari (https://github.com/amiraliaskari2014)
+- Ali Heydarabadi (https://github.com/aliheydarabadii)
